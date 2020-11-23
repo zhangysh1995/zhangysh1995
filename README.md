@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **[DBMS Testing](https://github.com/zhangysh1995/awesome-database-testing)**
 - 🌱 I’m currently learning **Golang** and **MySQL**
 - 👯 I’m looking to collaborate on **testing tools**
-- 🤔 I’m looking for help with **natual languages** (English, Korean)
+- 🤔 I’m looking for help with **natural languages** (English, Korean)
 - 💬 Ask me anything about **PhD lifes** and **my projects**
 - 📫 How to reach me: [Yushan](mailto:zhangysh1995@gmail.com)
 - 😄 Pronouns: **she/her/hers**
