@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **implementing a modular database development framework**
 - 📫 How to reach me: [Yushan](mailto:zhangysh1995@gmail.com)
 - 😄 Pronouns: **she/her/hers**
-- ⚡ Fun fact: I studied five years in univeristy and I was a biology major.
+- ⚡ Fun fact: I studied five years for undergraduate and I was a biology major in my first two years.
 
 *For DBMS testing collaboration and discussion, please feel free to email me.*
 
