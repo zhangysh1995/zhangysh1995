@@ -3,7 +3,7 @@
 ### Hi, I'm Yushan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on **[DBMS Testing](https://github.com/zhangysh1995/awesome-database-testing)**
-- :mag_right: **I have found 15 bugs in MySQL, 30+ bugs in TiDB and 3 bugs in Tencent CynosDB**
+- :mag: **I have found 15 bugs in MySQL, 30+ bugs in TiDB and 3 bugs in Tencent CynosDB**
 - 🌱 I’m currently learning **Golang** and **MySQL**
 - 👯 I’m looking to collaborate on **implementing a modular database development framework**
 - 📫 How to reach me: [Yushan](mailto:zhangysh1995@gmail.com)
