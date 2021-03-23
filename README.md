@@ -12,6 +12,8 @@
 
 *For DBMS testing collaboration and discussion, please feel free to email me.*
 
+*如果你对数据分析感兴趣，欢迎加入数据分析 Slack 社区，[点击加入](https://join.slack.com/t/data-analysisworld/shared_invite/zt-o9e5pae9-GQOqtcNrYlPEGdb58pmrXA)*
+
 ### Personal Website
 - [Academic profile](http://home.cse.ust.hk/~yzhanghw/)
 - [Blog (EN)](http://zhangyushao.site/)
