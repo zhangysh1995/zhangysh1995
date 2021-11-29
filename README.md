@@ -1,9 +1,9 @@
-## I'm looking for a full time job.
+### I'm now working at Tecent Inc.
 
 ### Hi, I'm Yushan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on **[DBMS Testing](https://github.com/zhangysh1995/awesome-database-testing)**
-- :mag: **I have found 15 bugs in MySQL, 30+ bugs in TiDB and 3 bugs in Tencent CynosDB**
+- :mag: **I found 15 bugs in MySQL, 30+ bugs in TiDB and 3 bugs in Tencent CynosDB** before I joined Tencent.
 - 🌱 I’m currently learning **Golang** and **MySQL**
 - 👯 I’m looking to collaborate on **implementing a modular database development framework**
 - 📫 How to reach me: [Yushan](mailto:zhangysh1995@gmail.com)
@@ -15,7 +15,7 @@
 *如果你对数据分析感兴趣，欢迎加入数据分析 Slack 社区，[点击加入](https://join.slack.com/t/data-analysisworld/shared_invite/zt-o9e5pae9-GQOqtcNrYlPEGdb58pmrXA)*
 
 ### Personal Website
-- [Academic profile](http://home.cse.ust.hk/~yzhanghw/)
+- [Academic profile](http://home.cse.ust.hk/~yzhanghw/)(this will be removed soon, new website under construction...)
 - [Blog (EN)](http://zhangyushao.site/)
 - [Blog (CN)](https://blog.csdn.net/kids412kelly)
 
